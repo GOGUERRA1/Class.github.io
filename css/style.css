@@ -82,12 +82,33 @@ header {
     width: 150px;
     height: 150px;
 }
+.card{
+    min-height: 300px;
+}
 	
 .btn1 { width: 25%
 }
-	
-	
-	
+#terror{
+    background-image: url(https://static.wikia.nocookie.net/deadspace/images/4/44/Obsidian_Rig.jpg/revision/latest?cb=20081124220159);
+    background-size: cover;
+    
+}
+#accion{
+    background-image: url(https://www.xtrafondos.com/descargar.php?id=3172&vertical=1);
+    background-size: cover;
+}
+#lucha{
+    background-image: url(https://www.xtrafondos.com/wallpapers/vertical/guile-street-fighter-6-10173.jpg);
+    background-size: cover;
+}
+#deporte{
+    background-image: url(https://www.nme.com/wp-content/uploads/2021/06/madden-22-2000x1270-1-696x442.jpg);
+    background-size: cover;    
+}
+#carreras{
+    background-image: url(https://assetsio.reedpopcdn.com/digitalfoundry-2021-forza-horizon-5-xbox-platform-comparison-1636142678668.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp);
+    background-size: cover;    
+}
 .main-banner {
     background-image: url(https://www.sector.sk/files/novinky/0/2023/5-27-11-4-26/diablo-ukazuje-svoj-pribeh-z-k-image-329.jpg) ;
     background-position: center top;
